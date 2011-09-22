@@ -1,0 +1,8 @@
+This classes makes it easy to add zoom, pan and rotate functionality to any
+python OpenGL application.
+
+You just create a Screen object and choose its displayFunc. You can ZPR
+using the mouse and also the keyboard. See the code for details.
+
+Alvaro Gamez Machado <alvaro.gamez AT hazent.com>
+
